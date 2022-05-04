@@ -1,3 +1,10 @@
+# daily note
+
+> fork from electron-vite-vue as my template
+
+基本的日常工作记录器
+
+
 # electron-vite-vue
 
 [![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)

@@ -42,6 +42,7 @@
     "vue"
   ],
   "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
     "@kangc/v-md-editor": "^2.3.15",
     "ant-design-vue": "^3.2.2",
     "editor.md": "^1.5.0",
