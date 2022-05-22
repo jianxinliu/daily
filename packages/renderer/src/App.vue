@@ -53,7 +53,7 @@ let activeKey = ref('2')
       </a-layout-sider>
       <a-layout>
         <a-layout-content
-            :style="{ background: '#fff', padding: '10px', margin: 0, minHeight: '480px' }"
+            :style="{ background: '#fff', padding: '10px', margin: 0, minHeight: '880px' }"
         >
           <div class="card-container">
             <a-tabs v-model:activeKey="activeKey" size="large" :tabBarGutter="100" :tabBarStyle="{width: '100%'}">
